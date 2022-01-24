@@ -1,0 +1,12 @@
+C:\Users\hsing\source\repos\xSquaredTest\bin\Debug\xSquaredTest.exe.config
+C:\Users\hsing\source\repos\xSquaredTest\bin\Debug\xSquaredTest.exe
+C:\Users\hsing\source\repos\xSquaredTest\bin\Debug\xSquaredTest.pdb
+C:\Users\hsing\source\repos\xSquaredTest\obj\Debug\xSquaredTest.csprojAssemblyReference.cache
+C:\Users\hsing\source\repos\xSquaredTest\obj\Debug\xSquaredTest.Form1.resources
+C:\Users\hsing\source\repos\xSquaredTest\obj\Debug\xSquaredTest.Properties.Resources.resources
+C:\Users\hsing\source\repos\xSquaredTest\obj\Debug\xSquaredTest.csproj.GenerateResource.cache
+C:\Users\hsing\source\repos\xSquaredTest\obj\Debug\xSquaredTest.csproj.CoreCompileInputs.cache
+C:\Users\hsing\source\repos\xSquaredTest\obj\Debug\xSquaredTest.exe
+C:\Users\hsing\source\repos\xSquaredTest\obj\Debug\xSquaredTest.pdb
+C:\Users\hsing\source\repos\xSquaredTest\obj\Debug\xSquaredTest.Popup.resources
+C:\Users\hsing\source\repos\xSquaredTest\obj\Debug\xSquaredTest.SaveError.resources

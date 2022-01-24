@@ -1,0 +1,33 @@
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\bin\Debug\Hydrograph.exe.config
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\bin\Debug\Hydrograph.exe
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\bin\Debug\Hydrograph.pdb
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\obj\Debug\Hydrograph.csprojAssemblyReference.cache
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\obj\Debug\Hydrograph.Form1.resources
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\obj\Debug\Hydrograph.Properties.Resources.resources
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\obj\Debug\Hydrograph.csproj.GenerateResource.cache
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\obj\Debug\Hydrograph.csproj.CoreCompileInputs.cache
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\obj\Debug\Hydrograph.exe
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\obj\Debug\Hydrograph.pdb
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\obj\Debug\Hydrograph.InputErrorPoppup.resources
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\obj\Debug\Hydrograph.SaveErrorPoppup.resources
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\bin\Debug\Hydrograph.exe.manifest
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\bin\Debug\Hydrograph.application
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\obj\Debug\Hydrograph.exe.manifest
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\obj\Debug\Hydrograph.application
+C:\Users\ilike\source\repos\Hydrograph\Hydrograph\obj\Debug\Hydrograph.GenerateDialogue.resources
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\bin\Debug\Hydrograph.exe.config
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\bin\Debug\Hydrograph.exe.manifest
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\bin\Debug\Hydrograph.application
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\bin\Debug\Hydrograph.exe
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\bin\Debug\Hydrograph.pdb
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\obj\Debug\Hydrograph.csprojAssemblyReference.cache
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\obj\Debug\Hydrograph.Form1.resources
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\obj\Debug\Hydrograph.GenerateDialogue.resources
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\obj\Debug\Hydrograph.InputErrorPoppup.resources
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\obj\Debug\Hydrograph.Properties.Resources.resources
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\obj\Debug\Hydrograph.SaveErrorPoppup.resources
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\obj\Debug\Hydrograph.csproj.GenerateResource.cache
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\obj\Debug\Hydrograph.exe.manifest
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\obj\Debug\Hydrograph.application
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\obj\Debug\Hydrograph.exe
+C:\Users\Randall J\Downloads\Iteration_8\Iteration 8\Hydrograph\Hydrograph\obj\Debug\Hydrograph.pdb
